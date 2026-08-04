@@ -18,6 +18,7 @@
   <img title="C#" alt="C Sharp" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CS.svg" width=64 height=64 />
   <img title=".Net" alt="DotNet" src="https://github.com/tandpfun/skill-icons/raw/main/icons/DotNet.svg" width=64 height=64 />
   <img title="Python" alt="Python" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" width=64 height=64 />
+  <img title="Java" alt="Java" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" width=64 height=64 />
   <img title="HTML" alt="HTML" src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" width=64 height=64 />
   <img title="CSS" alt="CSS" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" width=64 height=64 />
   <img title="JavaScript" alt="JavaScript" src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" width=64 height=64 />

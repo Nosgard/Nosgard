@@ -13,7 +13,7 @@
 
 <h2>:computer:Tech-Stack</h2>
 
-<h3>Favorite Languages & Technologies</h3>
+<h3>Languages & Technologies</h3>
 <p align="center">
   <img title="C#" alt="C Sharp" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CS.svg" width=64 height=64 />
   <img title=".Net" alt="DotNet" src="https://github.com/tandpfun/skill-icons/raw/main/icons/DotNet.svg" width=64 height=64 />
@@ -30,3 +30,13 @@
   <img title="SQLite" alt="SQLite" src="https://github.com/tandpfun/skill-icons/raw/main/icons/SQLite.svg" width=64 height=64 />
   <img title="GitHub Actions" alt="GitHub Actions" src="https://github.com/tandpfun/skill-icons/raw/main/icons/GithubActions-Dark.svg" width=64 height=64 />
 </p>
+
+<h3>Dev-Setup</h3>
+<p align="center">
+  <img title="Visual Studio" alt="Visual Studio" src="https://github.com/tandpfun/skill-icons/raw/main/icons/VisualStudio-Dark.svg" width=64 height=64 />
+  <img title="VS Code" alt="VS Code" src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" width=64 height=64 />
+  <img title="IntelliJ IDEA" alt="IntelliJ IDEA" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Idea-Dark.svg" width=64 height=64 />
+</p>
+
+
+

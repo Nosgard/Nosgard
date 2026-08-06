@@ -52,3 +52,16 @@
   <li>:runner: Work out</li>
   <li>:video_game: Gaming</li>
 </ul>
+
+---
+
+<h2>:email: Contact</h2>
+<p>I'm open to collaboration. You can expect a friendly, reliable and transparent mate for all of your project ideas.</p>
+<p>Feel free to send me a message on <b>GitHub</b>. Looking forward to build awesome projects with you!</p>
+
+---
+
+<p>Thank you for visiting my profile and as always:</p>
+
+
+<p align="center">:desktop_computer:<b>Happy Coding!</b>:desktop_computer:</p>

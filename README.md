@@ -42,5 +42,13 @@
   <img tile="Eclipse" alt="Eclipse" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Eclipse-Dark.svg" width=54 height=54 />
 </p>
 
+---
 
-
+<h2>:mushroom: Side-Quests</h2>
+<p>Besides Programming and Software Development I have a few things I do in my free time to find my inner balance</p>
+<ul>
+  <li>:hammer: Building, drawing and playing Warhammer 40K</li>
+  <li>:bowl_with_spoon: Cooking and Baking</li>
+  <li>:runner: Work out</li>
+  <li>:video_game: Gaming</li>
+</ul>

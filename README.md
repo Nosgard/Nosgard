@@ -45,7 +45,7 @@
 ---
 
 <h2>:mushroom: Side-Quests</h2>
-<p>Besides Programming and Software Development I have a few things I do in my free time to find my inner balance</p>
+<p>I have a few things I do in my free time to find my inner balance</p>
 <ul>
   <li>:hammer: Building, drawing and playing Warhammer 40K</li>
   <li>:bowl_with_spoon: Cooking and Baking</li>

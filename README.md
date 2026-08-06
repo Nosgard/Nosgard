@@ -29,6 +29,8 @@
   <img title="MySQL" alt="MySQL" src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" width=64 height=64 />
   <img title="SQLite" alt="SQLite" src="https://github.com/tandpfun/skill-icons/raw/main/icons/SQLite.svg" width=64 height=64 />
   <img title="GitHub Actions" alt="GitHub Actions" src="https://github.com/tandpfun/skill-icons/raw/main/icons/GithubActions-Dark.svg" width=64 height=64 />
+  <img title="Selenium" alt="Selenium" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Selenium.svg" width=64 height=64 />
+  <img title="Docker" alt="Docker" src="https://github.com/user-attachments/assets/327cf5da-3ed4-48b1-8c93-9299df675c74" width=64 height=64 />
 </p>
 
 <h3>Dev-Setup</h3>
@@ -36,6 +38,8 @@
   <img title="Visual Studio" alt="Visual Studio" src="https://github.com/tandpfun/skill-icons/raw/main/icons/VisualStudio-Dark.svg" width=64 height=64 />
   <img title="VS Code" alt="VS Code" src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" width=64 height=64 />
   <img title="IntelliJ IDEA" alt="IntelliJ IDEA" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Idea-Dark.svg" width=64 height=64 />
+  <img title="PyCharm" alt="PyCharm" src="https://github.com/tandpfun/skill-icons/raw/main/icons/PyCharm-Dark.svg" width=64 height=64 />
+  <img tile="Eclipse" alt="Eclipse" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Eclipse-Dark.svg" width=64 height=64 />
 </p>
 
 

@@ -47,9 +47,9 @@
 <h2>:mushroom: Side-Quests</h2>
 <p>I have a few things I do in my free time to find my inner balance</p>
 <ul>
-  <li>:hammer: Building, drawing and playing Warhammer 40K</li>
+  <li>:hammer: Building, Drawing and Playing Warhammer 40K</li>
   <li>:bowl_with_spoon: Cooking and Baking</li>
-  <li>:runner: Work out</li>
+  <li>:runner: Doing Sports</li>
   <li>:video_game: Gaming</li>
 </ul>
 

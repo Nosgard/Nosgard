@@ -63,5 +63,4 @@
 
 <p>Thank you for visiting my profile and as always:</p>
 
-
-<p align="center">:desktop_computer:<b>Happy Coding!</b>:desktop_computer:</p>
+<h3 align="center">:desktop_computer:<b>Happy Coding!</b>:desktop_computer:</h3>

@@ -15,31 +15,31 @@
 
 <h3>Languages & Technologies</h3>
 <p align="center">
-  <img title="C#" alt="C Sharp" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CS.svg" width=54 height=54 />
-  <img title=".Net" alt="DotNet" src="https://github.com/tandpfun/skill-icons/raw/main/icons/DotNet.svg" width=54 height=54 />
-  <img title="Python" alt="Python" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" width=54 height=54 />
-  <img title="Java" alt="Java" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" width=54 height=54 />
-  <img title="HTML" alt="HTML" src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" width=54 height=54 />
-  <img title="CSS" alt="CSS" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" width=54 height=54 />
-  <img title="JavaScript" alt="JavaScript" src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" width=54 height=54 />
-  <img title="TypeScript" alt="TypeScript" src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg" width=54 height=54 />
-  <img title="git" alt="git" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" width=54 height=54 />
-  <img title=Figma" alt="Figma" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Figma-Dark.svg" width=54 height=54 />
-  <img title="React" alt="React" src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" width=54 height=54 />
-  <img title="MySQL" alt="MySQL" src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" width=54 height=54 />
-  <img title="SQLite" alt="SQLite" src="https://github.com/tandpfun/skill-icons/raw/main/icons/SQLite.svg" width=54 height=54 />
-  <img title="GitHub Actions" alt="GitHub Actions" src="https://github.com/tandpfun/skill-icons/raw/main/icons/GithubActions-Dark.svg" width=54 height=54 />
-  <img title="Selenium" alt="Selenium" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Selenium.svg" width=54 height=54 />
-  <img title="Docker" alt="Docker" src="https://github.com/user-attachments/assets/327cf5da-3ed4-48b1-8c93-9299df675c74" width=54 height=54 />
+  <img title="C#" alt="C Sharp" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CS.svg" width=32 height=32 />
+  <img title=".Net" alt="DotNet" src="https://github.com/tandpfun/skill-icons/raw/main/icons/DotNet.svg" width=32 height=32 />
+  <img title="Python" alt="Python" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" width=32 height=32 />
+  <img title="Java" alt="Java" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" width=32 height=32 />
+  <img title="HTML" alt="HTML" src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" width=32 height=32 />
+  <img title="CSS" alt="CSS" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" width=32 height=32 />
+  <img title="JavaScript" alt="JavaScript" src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" width=32 height=32 />
+  <img title="TypeScript" alt="TypeScript" src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg" width=32 height=32 />
+  <img title="git" alt="git" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" width=32 height=32 />
+  <img title=Figma" alt="Figma" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Figma-Dark.svg" width=32 height=32 />
+  <img title="React" alt="React" src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" width=32 height=32 />
+  <img title="MySQL" alt="MySQL" src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" width=32 height=32 />
+  <img title="SQLite" alt="SQLite" src="https://github.com/tandpfun/skill-icons/raw/main/icons/SQLite.svg" width=32 height=32 />
+  <img title="GitHub Actions" alt="GitHub Actions" src="https://github.com/tandpfun/skill-icons/raw/main/icons/GithubActions-Dark.svg" width=32 height=32 />
+  <img title="Selenium" alt="Selenium" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Selenium.svg" width=32 height=32 />
+  <img title="Docker" alt="Docker" src="https://github.com/user-attachments/assets/327cf5da-3ed4-48b1-8c93-9299df675c74" width=32 height=32 />
 </p>
 
 <h3>Dev-Setup</h3>
 <p align="center">
-  <img title="Visual Studio" alt="Visual Studio" src="https://github.com/tandpfun/skill-icons/raw/main/icons/VisualStudio-Dark.svg" width=54 height=54 />
-  <img title="VS Code" alt="VS Code" src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" width=54 height=54 />
-  <img title="IntelliJ IDEA" alt="IntelliJ IDEA" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Idea-Dark.svg" width=54 height=54 />
-  <img title="PyCharm" alt="PyCharm" src="https://github.com/tandpfun/skill-icons/raw/main/icons/PyCharm-Dark.svg" width=54 height=54 />
-  <img tile="Eclipse" alt="Eclipse" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Eclipse-Dark.svg" width=54 height=54 />
+  <img title="Visual Studio" alt="Visual Studio" src="https://github.com/tandpfun/skill-icons/raw/main/icons/VisualStudio-Dark.svg" width=32 height=32 />
+  <img title="VS Code" alt="VS Code" src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" width=32 height=32 />
+  <img title="IntelliJ IDEA" alt="IntelliJ IDEA" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Idea-Dark.svg" width=32 height=32 />
+  <img title="PyCharm" alt="PyCharm" src="https://github.com/tandpfun/skill-icons/raw/main/icons/PyCharm-Dark.svg" width=32 height=32 />
+  <img tile="Eclipse" alt="Eclipse" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Eclipse-Dark.svg" width=32 height=32 />
 </p>
 
 ---

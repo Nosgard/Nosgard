@@ -2,12 +2,10 @@
   <img src="images/title.gif" width= "600" alt="Title image with a glitch animation">
 </div>
 
-
-<h1>:wave:Hello Traveler!</h1>
-<p>I'm glad you found your way to my profile. You're probably wondering who I am and what I do. I'd like to tell you all about that below.</p>
+<h1>:wave: Hello there!</h1>
 
 <h2>:page_facing_up:About Me</h2>
-<p>I'm Niklas, a <b>Junior Software Developer</b> with a strong passion for the development of interactive content of any kind. What really motivates me to get out of bed every day and start typing on my Keyboard is the fact that you can basically create anything you want, as long as you have the will to fight for your goal :muscle:</p>
+<p>I'm glad that you found your way to my profile. I'm Niklas, a <b>Junior Software Developer</b> with a strong passion for the development of interactive content of any kind, from small tools to full-stack-projects - anything that provides a real benefit. That's what really motivates me to type on my keyboard every day.</p>
 
 <p>I have completed two vocational training programs. Thanks to my training, I not only gained a lot of theoretical knowledge about Software Development, but I was also involved in real-world projects right from the start. I'm primarily into Software Engineering, Software Architecture, creating small tools, practicing new technologies and use them in my projects to gain experience.</p>
 
@@ -41,17 +39,6 @@
   <img title="PyCharm" alt="PyCharm" src="https://github.com/tandpfun/skill-icons/raw/main/icons/PyCharm-Dark.svg" width=48 height=48 />
   <img tile="Eclipse" alt="Eclipse" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Eclipse-Dark.svg" width=48 height=48 />
 </p>
-
----
-
-<h2>:mushroom: Side-Quests</h2>
-<p>I have a few things I do in my free time to find my inner balance</p>
-<ul>
-  <li>:hammer: Building, Drawing and Playing Warhammer 40K</li>
-  <li>:bowl_with_spoon: Cooking and Baking</li>
-  <li>:runner: Doing Sports</li>
-  <li>:video_game: Gaming</li>
-</ul>
 
 ---
 

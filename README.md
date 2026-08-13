@@ -2,12 +2,16 @@
   <img src="images/title.gif" width= "600" alt="Title image with a glitch animation">
 </div>
 
-<h1>:wave: Hello there!</h1>
+<h1>:wave: Hey there!</h1>
+
+**Junior Software Developer** - **IT-Specialist** - **Gamer**
 
 <h2>:page_facing_up:About Me</h2>
-<p>I'm glad that you found your way to my profile. I'm Niklas, a <b>Junior Software Developer</b> with a strong passion for the development of interactive content of any kind, from small tools to full-stack-projects - anything that provides a real benefit. That's what really motivates me to type on my keyboard every day.</p>
+<p>I'm glad that you found your way to my profile. I'm Niklas, a <b>Junior Software Developer</b> with a strong passion for the development of interactive content of any kind, from small tools to full-stack-projects - anything that provides a real benefit or I can grow with. That's what really motivates me to type on my keyboard every day.</p>
 
-<p>I have completed two vocational training programs. Thanks to my training, I not only gained a lot of theoretical knowledge about Software Development, but I was also involved in real-world projects right from the start. I'm primarily into Software Engineering, Software Architecture, creating small tools, practicing new technologies and use them in my projects to gain experience.</p>
+<p>I have completed two vocational training programs. Thanks to my training, I not only gained a lot of theoretical knowledge about Software Development, but I was also involved in real-world projects right from the start. </p>
+
+<p>Whether I develop frontends, backends or databases - I always try to make the best of it. For me, challenges aren't something I give up on - they help me get better at what I love.</p>
 
 <h2>:computer:Tech-Stack</h2>
 

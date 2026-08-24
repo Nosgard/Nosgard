@@ -27,10 +27,10 @@
   <img title="TypeScript" alt="TypeScript" src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg" width=48 height=48 />
   <img title="git" alt="git" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" width=48 height=48 />
   <img title=Figma" alt="Figma" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Figma-Dark.svg" width=48 height=48 />
+  <img title="Unity" alt="Unity" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Unity-Dark.svg" width=48 height=48 />
   <img title="React" alt="React" src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" width=48 height=48 />
   <img title="MySQL" alt="MySQL" src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" width=48 height=48 />
   <img title="SQLite" alt="SQLite" src="https://github.com/tandpfun/skill-icons/raw/main/icons/SQLite.svg" width=48 height=48 />
-  <img title="GitHub Actions" alt="GitHub Actions" src="https://github.com/tandpfun/skill-icons/raw/main/icons/GithubActions-Dark.svg" width=48 height=48 />
   <img title="Selenium" alt="Selenium" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Selenium.svg" width=48 height=48 />
   <img title="Docker" alt="Docker" src="https://github.com/user-attachments/assets/327cf5da-3ed4-48b1-8c93-9299df675c74" width=48 height=48 />
 </p>

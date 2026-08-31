@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="images/title.gif" width="600" alt="Title image with a digital wave animation">
+  <img src="images/title.gif" width="100%" alt="Title image with a digital wave animation">
 </div>
 
 <h1>:wave: Hey there!</h1>

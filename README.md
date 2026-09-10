@@ -12,7 +12,7 @@
 
 <h3>Languages</h3>
 <p>
-  <img title="C#" alt="C Sharp" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CS.svg" width="40" height="40" />
+  <img title="C#" alt="C Sharp" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CS.svg" width="48" height="48" />
   <img title="Python" alt="Python" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" width="48" height="48" />
   <img title="Java" alt="Java" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" width="48" height="48" />
   <img title="HTML" alt="HTML" src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" width="48" height="48" />

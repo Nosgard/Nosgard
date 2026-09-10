@@ -6,8 +6,6 @@
 
 <p>I'm glad that you found your way to my profile. I'm Niklas, a <b>Junior Software Developer</b> with a strong passion for the development of interactive content of any kind, from small tools to full-stack-projects - anything that provides a real benefit or I can grow with. That's what really motivates me to type on my keyboard every day.</p>
 
-<p>I have completed two vocational training programs. Thanks to my training, I not only gained a lot of theoretical knowledge about Software Development, but I was also involved in real-world projects right from the start.</p>
-
 <p>Whether I develop frontends, backends or databases - I always try to make the best of it. For me, challenges aren't something I give up on - they help me get better at what I love.</p>
 
 <h2>:computer: Tech-Stack</h2>
@@ -58,9 +56,9 @@
 
 <h2>:email: Contact</h2>
 
-<p>I'm open to collaboration. You can expect a friendly, reliable and transparent mate for all your project ideas.</p>
-
-<p>Feel free to send me a message on <b>GitHub</b>. Looking forward to build awesome projects with you!</p>
+<p>I'm open to collaboration. You can expect a friendly, reliable and transparent mate for all your project ideas.
+  Feel free to send me a message on <b>GitHub</b>. Looking forward to build awesome projects with you!
+</p>
 
 ---
 

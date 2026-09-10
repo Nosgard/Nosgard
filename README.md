@@ -4,7 +4,7 @@
 
 <h1>:wave: Hey there!</h1>
 
-<p>I'm glad that you found your way to my profile. I'm Niklas, a <b>Junior Software Developer</b> with a strong passion for the development of interactive content of any kind, from small tools to full-stack-projects - anything that provides a real benefit or I can grow with. That's what really motivates me to type on my keyboard every day.</p>
+<p>I'm glad you found your way to my profile. I'm Niklas, a <b>Junior Software Developer</b> with a strong passion for the development of interactive content of any kind, from small tools to full-stack-projects - anything that provides a real benefit or I can grow with. That's what really motivates me to type on my keyboard every day.</p>
 
 <p>Whether I develop frontends, backends or databases - I always try to make the best of it. For me, challenges aren't something I give up on - they help me get better at what I love.</p>
 

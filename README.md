@@ -1,8 +1,10 @@
-<div align="center">
-  <img src="images/title.gif" width="100%" alt="Title image with a digital wave animation">
-</div>
-
 <h1>:wave: Hey there!</h1>
+
+**Software Developer** | **IT-Specialist** | **Technology-Explorer**
+
+---
+
+<h2>:sun_with_face:About Me</h2>
 
 <p>I'm glad you found your way to my profile. I'm Niklas, a <b>Software Developer</b> with a strong passion for the development of interactive content of any kind, from small tools to full-stack projects - anything that provides a real benefit or I can grow with. That's what really motivates me to type on my keyboard every day.</p>
 
@@ -56,7 +58,7 @@
 
 <h2>:email: Contact</h2>
 
-<p>I'm open to collaboration. You can expect a friendly, reliable and transparent mate for all your project ideas.
+<p>I'm open to collaboration. You can expect a friendly and reliable mate for all your project ideas.
   Feel free to send me a message on <b>GitHub</b>. Looking forward to build awesome projects with you!
 </p>
 

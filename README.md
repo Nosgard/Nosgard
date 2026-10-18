@@ -1,6 +1,6 @@
 <h1>:wave: Hey there!</h1>
 
-**Software Developer** | **IT-Specialist** | **Technology-Explorer**
+**Software Developer** | **IT-Specialist** | **AI enthusiast** | **Agent conductor**
 
 ---
 

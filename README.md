@@ -6,9 +6,9 @@
 
 ## :sun_with_face:About Me
 
-I'm glad you found your way to my profile. I'm Niklas, a <b>Software Developer</b> with a strong passion for the development of interactive content of any kind, from small tools to full-stack projects - anything that provides a real benefit or I can grow with. That's what really motivates me to type on my keyboard every day.
+I'm glad you found your way to my profile. I'm Niklas, a software developer with a strong passion for the development of interactive content of any kind, from small tools to full-stack projects - anything that provides a real benefit or I can grow with. That's what really motivates me to type on my keyboard every day. I always try to get the most out of my content. For me, challenges aren't something I give up on - they help me get better at what I love.
 
-Whether I develop frontends, backends or databases - I always try to make the best of it. For me, challenges aren't something I give up on - they help me get better at what I love.
+I'm currently digging into AI/ML and the opportunities it offers.
 
 ## :computer: Tech Stack
 

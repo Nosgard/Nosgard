@@ -76,12 +76,11 @@
 
 <h2>:email: Contact</h2>
 
-<p>I'm open to collaboration. You can expect a friendly and reliable mate for all your project ideas.
-  Feel free to send me a message on <b>GitHub</b>. Looking forward to build awesome projects with you!
+<p>
+  I'm open to collaboration on projects of any kind. If you have an idea you want to build together,
+  feel free to send me a message. Let's build something great!
 </p>
 
 ---
-
-<p>Thank you for visiting my profile and as always:</p>
 
 <h3 align="center">:desktop_computer: <b>Happy Coding!</b> :desktop_computer:</h3>

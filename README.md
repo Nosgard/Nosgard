@@ -83,4 +83,8 @@
 
 ---
 
-<h3 align="center">:desktop_computer: <b>Happy Coding!</b> :desktop_computer:</h3>
+<p align="center">
+  <img alt="$ logout nosgard@github CONNECTION CLOSED BY REMOTE HOST. STAY WIRED. SEE YOU IN THE NEXT COMMIT_" src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=2500&pause=1500&color=0891B2&center=true&vCenter=true&width=700&height=50&lines=%24+logout+nosgard%40github;CONNECTION+CLOSED+BY+REMOTE+HOST.;STAY+WIRED.+SEE+YOU+IN+THE+NEXT+COMMIT_" />
+</p>
+
+<img alt="HAPPY CODING // END OF TRANSMISSION //" width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=140&section=footer&text=HAPPY%20CODING&fontSize=58&fontColor=00F0FF&fontAlignY=55&desc=%2F%2F%20END%20OF%20TRANSMISSION%20%2F%2F&descSize=16&descAlignY=82" />

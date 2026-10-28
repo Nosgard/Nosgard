@@ -12,7 +12,7 @@ I'm currently digging into AI/ML and the opportunities it offers.
 
 ## :computer: Tech Stack
 
-### Frontend
+### :art: Frontend
 <p>
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white" />
@@ -20,7 +20,7 @@ I'm currently digging into AI/ML and the opportunities it offers.
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
-### Backend
+### :gear: Backend
 <p>
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -28,7 +28,7 @@ I'm currently digging into AI/ML and the opportunities it offers.
   <img alt="SQL" src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge" />
 </p>
 
-### Frameworks & Libraries
+### :books: Frameworks & Libraries
 <p>
   <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img alt="WPF" src="https://img.shields.io/badge/WPF-5C2D91?style=for-the-badge" />
@@ -38,21 +38,21 @@ I'm currently digging into AI/ML and the opportunities it offers.
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
-### Databases
+### :card_file_box: Databases
 <p>
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge" />
   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
-### AI
+### :robot: AI
 <p>
   <img alt="Claude Code" src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" />
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
 </p>
 
-### Tools
+### :hammer_and_wrench: Tools
 <p>
   <img alt="Git" src="https://img.shields.io/badge/Git-F03C2E?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
@@ -63,7 +63,7 @@ I'm currently digging into AI/ML and the opportunities it offers.
   <img alt="UML" src="https://img.shields.io/badge/UML-FABD14?style=for-the-badge&logo=uml&logoColor=black" />
 </p>
 
-### IDEs
+### :keyboard: IDEs
 <p>
   <img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge" />
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge" />
